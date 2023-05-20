@@ -44,6 +44,7 @@ Contributions are welcome! If you have any ideas, improvements, or bug fixes, pl
 ## Screenshots
 
 ![image1](https://github.com/Vivian301999/CVBuilder_App/assets/113273443/6e7764b6-db57-4594-98a1-4e10739b99b9)
+![Image2](https://github.com/Vivian301999/CVBuilder_App/assets/113273443/283c1aa0-ff2a-4bbe-8c67-467002b1afdc)
 
 ### Software and tool Requirements
 
