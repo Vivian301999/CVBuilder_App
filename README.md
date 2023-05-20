@@ -21,7 +21,7 @@ The project has the following dependencies:
 Make sure these dependencies are properly set up before building and running the project.
 
 ## Usage
-![image1](https://github.com/Vivian301999/CVBuilder_App/assets/113273443/6e7764b6-db57-4594-98a1-4e10739b99b9)
+
 
 1. Launch the application.
 
@@ -43,7 +43,7 @@ Contributions are welcome! If you have any ideas, improvements, or bug fixes, pl
 
 ## Screenshots
 
-![Alt Text](C:\Users\vivian\Downloads\image1.png)
+![image1](https://github.com/Vivian301999/CVBuilder_App/assets/113273443/6e7764b6-db57-4594-98a1-4e10739b99b9)
 
 ### Software and tool Requirements
 
