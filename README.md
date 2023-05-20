@@ -21,6 +21,7 @@ The project has the following dependencies:
 Make sure these dependencies are properly set up before building and running the project.
 
 ## Usage
+![image1](https://github.com/Vivian301999/CVBuilder_App/assets/113273443/6e7764b6-db57-4594-98a1-4e10739b99b9)
 
 1. Launch the application.
 
